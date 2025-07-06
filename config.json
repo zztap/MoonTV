@@ -77,5 +77,15 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     }
+     },
+    "hhua": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
+    }
+   },
+    "huohua": {
+      "api": "https://cj.huohua.live/api.php/provide/vod",
+      "name": "火花资源"
+    }
   }
 }
